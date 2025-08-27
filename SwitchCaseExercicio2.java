@@ -25,7 +25,7 @@ public class SwitchCaseExercicio2 {
           case 5 -> System.out.println("The Sims");
           default -> System.out.println("Jogo não encontrado");
          
-      } catch(Exepition e){
+      } catch(Exeption e){
 
           System.out.println("valor inválido");
       }
