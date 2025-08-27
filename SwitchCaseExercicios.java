@@ -26,7 +26,7 @@ public class SwitchCaseExercicios {
       } catch ( Exeption e) {
           System.out.println(" valor inválido");
       }
-       
+       scanner.close();
        
        
       }         
