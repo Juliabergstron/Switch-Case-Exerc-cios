@@ -27,9 +27,12 @@ public class SwitchCaseExercicio3 {
           case 7 -> System.out.println("Sábado");
           default -> System.out.println("Dia não compatível");
          
+      } catch(Exeption e) {
+
+          System.out.println("valor inváalido");
       }
        
-       
+       scanner.close();
        
       }         
   }
