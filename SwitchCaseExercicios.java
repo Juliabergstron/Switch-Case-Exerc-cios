@@ -23,6 +23,8 @@ public class SwitchCaseExercicios {
           case 3 -> System.out.println("A fruta correspondente é a laranja");
           default -> System.out.println("Não há fruta correspondente.");
          
+      } catch ( Exeption e) {
+          System.out.println(" valor inválido");
       }
        
        
