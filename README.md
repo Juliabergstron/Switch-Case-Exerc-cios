@@ -7,7 +7,7 @@
 <img width="978" height="620" alt="image" src="https://github.com/user-attachments/assets/4c5df10f-ee6a-4d26-851c-3b98fac69502" />
 
 # Exercicio3
-<img width="952" height="783" alt="image" src="https://github.com/user-attachments/assets/a276ce26-5b23-4383-acda-a63f516b7a72" />
+<img width="617" height="125" alt="image" src="https://github.com/user-attachments/assets/8a58b198-1868-4330-a452-0ac5ce68867f" />
 
 ## Explicação
 
