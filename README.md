@@ -1,6 +1,7 @@
 # Switch-Case-Exerc-cios
 # Exercicio1
-<img width="1092" height="634" alt="image" src="https://github.com/user-attachments/assets/b5ec9ccb-b93f-475d-b9f1-c14c695a29e2" />
+<img width="591" height="101" alt="image" src="https://github.com/user-attachments/assets/8b6ac107-e4d0-48e2-9ed3-09a0f85eefc7" />
+
 
 # Exercicio2
 <img width="978" height="620" alt="image" src="https://github.com/user-attachments/assets/4c5df10f-ee6a-4d26-851c-3b98fac69502" />
