@@ -26,6 +26,8 @@ public class SwitchCaseExercicios {
       } catch ( Exeption e) {
           System.out.println(" valor inválido");
       }
+        finally {
+            System.out.println("Programa encerrado.");
        scanner.close();
        
        
