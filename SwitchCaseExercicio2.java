@@ -12,7 +12,7 @@ import java.util.Scanner ;
 public class SwitchCaseExercicio2 {
 
     public static void main(String[] args) {
-      try (Scanner scanner = new Scanner(System.in)) {
+      Scanner scanner = new Scanner(System.in) {
        System.out.println("Digite um número de 1 a 5 e mostrarei o nome de um jogo.");
        int jogonumero = scanner.nextInt();
        
@@ -25,14 +25,10 @@ public class SwitchCaseExercicio2 {
           case 5 -> System.out.println("The Sims");
           default -> System.out.println("Jogo não encontrado");
          
-      } catch(Exeption e){
 
-          System.out.println("valor inválido");
-      }
-       finally {
-            System.out.println("Programa encerrado.");
-       scanner.close();
+      
        
-      }         
+      }  
+         scanner.close();
   }
 }
