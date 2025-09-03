@@ -31,7 +31,8 @@ public class SwitchCaseExercicio3 {
 
           System.out.println("valor inválido");
       }
-       
+       finally {
+            System.out.println("Programa encerrado.");
        scanner.close();
        
       }         
