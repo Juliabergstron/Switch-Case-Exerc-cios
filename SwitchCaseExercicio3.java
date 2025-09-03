@@ -12,7 +12,7 @@ import java.util.Scanner ;
 public class SwitchCaseExercicio3 {
 
     public static void main(String[] args) {
-      try (Scanner scanner = new Scanner(System.in)) {
+       Scanner scanner = new Scanner(System.in): {
        System.out.println("Digite um número de 1 a 7 e mostrarei o dia correspondente.");
        int semanadia= scanner.nextInt();
        
@@ -27,12 +27,7 @@ public class SwitchCaseExercicio3 {
           case 7 -> System.out.println("Sábado");
           default -> System.out.println("Dia não compatível");
          
-      } catch(Exeption e) {
-
-          System.out.println("valor inválido");
-      }
-       finally {
-            System.out.println("Programa encerrado.");
+      } 
        scanner.close();
        
       }         
