@@ -29,7 +29,7 @@ public class SwitchCaseExercicio3 {
          
       } catch(Exeption e) {
 
-          System.out.println("valor inváalido");
+          System.out.println("valor inválido");
       }
        
        scanner.close();
